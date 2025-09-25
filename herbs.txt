@@ -1,2 +1,0 @@
-"parsley" 
-"basil" 
